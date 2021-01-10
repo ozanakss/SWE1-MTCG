@@ -1,0 +1,8 @@
+
+public enum KartenKategorie {
+    MONSTER, SPELL, UNDEF, GOBLIN, TROLL, ELF, KNIGHT, DRAGON, WIZZARD, ORK, KRAKEN, FIREELVES
+}
+
+ enum DieElemente {
+    WATER, FIRE, NORMAL, UNDEF, REGULAR, FEUER, WASSER
+}
